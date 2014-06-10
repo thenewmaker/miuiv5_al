@@ -1,7 +1,8 @@
-miuiv5_mk
+miuiv5_al
 =========
 
 MIUI ROM V5
+ALBANIAN TRANSLATION PROJECT - in cooperation with XIAOMI.EU
 
 Unofficial translation started today. It should be up fast. If you have any remarks, please contact me: thenewmaker@gmail.com
 
