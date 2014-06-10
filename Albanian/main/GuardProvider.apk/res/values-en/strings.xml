@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">Jinshan Roja e Sigurisë</string>
+  <string name="hello_world">Tung Botë!</string>
+  <string name="menu_settings">Cilësime</string>
+  <string name="title_activity_main">Aktiviteti Kryesorë</string>
+</resources>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi të dhëna</item>
+        <item>Të gjitha programet</item>
+    </string-array>
+    <string-array name="system_package_label">
+	<item>Shfletues</item>
+	<item>Galeri</item>
+	<item>Menagjer i lejimit</item>
+	<item>Kamera</item>
+	<item>Asistent i rjetit</item>
+	<item>Magazina e Motit</item>
+	<item>Moti</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kontakte</item>
+        <item>Regjistri i thirjeve</item>
+        <item>Mesazhet</item>
+        <item>Mesazhet multimediale</item>
+        <item>Cilësimet e sistemit</item>
+        <item>Wi-Fi cilësimet</item>
+        <item>Desktop paraqitja</item>
+        <item>Alarm cilësimet</item>
+        <item>Shënimet</item>
+        <item>DND</item>
+        <item>Llogaritë</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Të dhënat</item>
+        <item>App</item>
+        <item>App and Të dhënat</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kontaktet</item>
+        <item>Regjistri i thirjeve</item>
+        <item>Mesazhet</item>
+        <item>Wi-Fi cilësimet</item>
+        <item>Shënimet</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kontaktet</item>
+        <item>Wi-Fi cilësimet</item>
+        <item>Shënimet</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Regjistri i thirjeve</item>
+        <item>Mesazhet</item>
+    </string-array>
+</resources>

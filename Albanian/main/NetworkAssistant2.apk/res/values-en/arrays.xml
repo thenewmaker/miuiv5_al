@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>B</item>
+        <item>KB</item>
+        <item>MB</item>
+        <item>GB</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Dje</item>
+        <item>Sot</item>
+        <item>këtë muaj</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Dje (Data)</item>
+        <item>Sot (Data)</item>
+        <item>Këtë muaj (Data)</item>
+        <item>Dje WLAN</item>
+        <item>Sot WLAN</item>
+        <item>Këtë muaj WLAN</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Dje (Data)</item>
+        <item>Sot (Data)</item>
+        <item>Këtë muaj (Data)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sek</item>
+        <item>4 sek</item>
+        <item>5 sek</item>
+        <item>6 sek</item>
+        <item>7 sek</item>
+        <item>8 sek</item>
+        <item>9 sek</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Të dhënat e përdorimit</item>
+        <item>WLAN përdorimi</item>
+        <item>Përdorimi total</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Merr mesazhe template automatikisht</item>
+        <item>Vendos mesazhe template manualisht</item>
+    </string-array>
+</resources>

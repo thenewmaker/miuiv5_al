@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">%d ditët</item>
+        <item quantity="one">%d ditë</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%d orë</item>
+        <item quantity="one">%d or</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">%d mint</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën% d shkronja.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 shkronjë.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën% d shkronja të vogëla.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 shkronj të vogël.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën% d shkronja të mëdha.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 shkronjë të madhe.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën% d shifra numerike.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 shifër numerike.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën% d simbole të veçanta.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 simbol të veçantë.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Fjalëkalimi duhet të përmbajë të paktën% d karaktere jo-shkronjë.</item>
+        <item quantity="one">Fjalëkalimi duhet të përmbajë të paktën 1 jo-shkronjë karakter.</item>
+    </plurals>
+</resources>

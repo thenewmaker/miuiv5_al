@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="screen_timeout_items">
+        <item>15 sekonda</item>
+        <item>30 sekonda</item>
+        <item>1 minuta</item>
+        <item>2 minuta</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>Asnjëher</item>
+    </string-array>
+</resources>

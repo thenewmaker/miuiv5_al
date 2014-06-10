@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Alarmi vendosur për më pak se 1 minutë nga tani.</item>
+        <item>Alarmi i vendosur për %1$s nga tani.</item>
+        <item>Alarmi i vendosur për %2$s fnga tani.</item>
+        <item>Alarmi i vendosur për %1$s dhe %2$s nga tani.</item>
+        <item>Alarmi i vendosur për %3$s nga tani.</item>
+        <item>Alarmi i vendosur për %1$s dhe %3$s nga tani.</item>
+        <item>Alarmi i vendosur për %2$s dhe %3$s nga tani.</item>
+        <item>Alarmi i vendosur për %1$s, %2$s, dhe %3$s nga tani.</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minut</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Asnjëher</item>
+        <item>1 minut</item>
+        <item>5 minuta</item>
+        <item>10 minuta</item>
+        <item>15 minuta</item>
+        <item>20 minuta</item>
+        <item>25 minuta</item>
+        <item>30 minuta</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Mos bëj ashgjë</item>
+        <item>Shty</item>
+        <item>Anulo</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Alarmi do të tingëllojë në më pak se 1 minutë</item>
+        <item>Alarmi do të tingëllojë në %1$s</item>
+        <item>Alarmi do të tingëllojë në %2$s</item>
+        <item>Alarmi do të tingëllojë në %1$s %2$s</item>
+        <item>Alarmi do të tingëllojë në %3$s</item>
+        <item>Alarmi do të tingëllojë në %1$s %3$s</item>
+        <item>Alarmi do të tingëllojë në %2$s %3$s</item>
+        <item>Alarmi do të tingëllojë në %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Dje</item>
+        <item>Sot</item>
+        <item>Neser</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Një</item>
+        <item>Përditë</item>
+        <item>Ditë pune</item>
+        <item>Hën deri Pre</item>
+        <item>Ndryshme</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Një herë</item>
+        <item>Përditë</item>
+        <item>Hën deri Pre</item>
+        <item>Ndryshme</item>
+    </string-array>
+</resources>

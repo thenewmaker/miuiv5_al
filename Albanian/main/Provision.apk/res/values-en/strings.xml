@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="continues">Vazhdo</string>
+  <string name="data_usage_summary">Nëse ju nuk e keni aplikuar për një plan të dhënave, është e rekomandueshme për të fikur të dhënave celular. Përndryshe, zgarë juaj mund të marrë pagesën nga ju tarifë shtesës.</string>
+  <string name="default_gprs_sim_name">Ju lutemi të dhëna \ "% a \" kufijtë e planit të dhënave</string>
+  <string name="input_method">Metoda input</string>
+  <string name="input_method_category">Zgjidh metodën e futjes së prezgjedhurd</string>
+  <string name="next">Tjetër</string>
+  <string name="other_service_google_location">Google Location service</string>
+  <string name="other_service_google_location_use">Location &amp; Google search</string>
+  <string name="other_service_google_location_use_help">"Lejo të shërbimit Google vendndodhjes për të mbledhur të dhëna anonime vend. Mbledhja do të ndodhë edhe kur nuk ka aplikacione të vrapojnë. Për të rregulluar këtë parametër, shkoni tek Settings> shërbimet e vendndodhjes"</string>
+  <string name="other_service_google_location_use_summary">Le Google përdorni vendndodhjen tuaj për të përmirësuar rezultatet e kërkimit dhe shërbime të tjera</string>
+  <string name="other_service_label">Shërbimi Tjetërs</string>
+  <string name="other_service_location">Shërbimet e vendndodhjes</string>
+  <string name="other_service_location_summary">Shërbimet e vendndodhjes lejon harta dhe Apps të tjera për të tërhequr të dhënat tuaja duke përdorur vend GPS</string>
+  <string name="other_service_permission_manager">Menaxho APP lejes</string>
+  <string name="other_service_permission_manager_summary">Apps për sigurinë dhe privatësinë Monitorimit</string>
+  <string name="other_service_user_experience">Join programin përvojë përdorues</string>
+  <string name="other_service_user_experience_summary0">"Ne të mbështetet në ju për të përdorur produktin tonë dhe karakteristikat dhe shpresoj se ju mund të na ndihmojë duke siguruar reagime."</string>
+  <string name="other_service_user_experience_summary1">Faleminderit MIUI team</string>
+  <string name="setup_complete_info">Pas shitjes shërbimi do të aktivizohet për herë të parë që ju përdorni telefonin tuaj</string>
+  <string name="setup_complete_label">Skema e plotë</string>
+  <string name="setup_complete_start">Filloni duke përdorur telefonin tuaje</string>
+  <string name="setup_complete_summary">Skema e  kompletuar! Kënaquni duke përdorur MIU!</string>
+  <string name="shutdown">Fikni</string>
+  <string name="sim_card_detection_dialog_message">Zbulimin kartën SIM, ju lutem prisni...</string>
+  <string name="sim_card_detection_info">"Në pamundësi për të setup Xiaomi llogari pa një kartë SIM. Ju duhet një kartë SIM për të përdorur llogari sinkronizimi, ndjekja e telefonit etj."</string>
+  <string name="sim_card_detection_label">Zbuluar kartën SIM</string>
+  <string name="sim_card_detection_status_absent">Karta SIM nuk zbulohend!</string>
+  <string name="traffic_protection_label">Monitorimi i trafikut të dhënave</string>
+  <string name="traffic_protection_summary">Monitorimi i trafikut të dhënave do të ju kujtoj të dhënat tuaja kur plani ka arritur kufirin e saj.</string>
+  <string name="traffic_protection_text_hint">Ju lutemi të dhëna kufirin planit tuaj të të dhënave.</string>
+  <string name="traffic_protection_unknown">Nuk e di. Do input më vonë.</string>
+  <string name="use_data">Aktivizo të dhënave</string>
+</resources>

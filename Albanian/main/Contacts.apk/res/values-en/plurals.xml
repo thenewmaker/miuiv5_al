@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="listTotalPhoneContacts">
+        <item quantity="other">%d kontaktet me numra telefoni</item>
+        <item quantity="one">1 kontakt me numër telefoni</item>
+    </plurals>
+    <plurals name="listTotalAllContacts">
+        <item quantity="other">%d kontaktet</item>
+        <item quantity="one">1 kontakt</item>
+    </plurals>
+    <plurals name="listFoundAllContacts">
+        <item quantity="other">%d gjetur</item>
+        <item quantity="one">1 gjetur</item>
+    </plurals>
+    <plurals name="searchFoundContacts">
+        <item quantity="other">%d gjetur</item>
+        <item quantity="one">1 gjetur</item>
+    </plurals>
+    <plurals name="merge_info">
+        <item quantity="other">bashkuar prej %0$d burimeve</item>
+        <item quantity="one">nuk janë bashkuar</item>
+    </plurals>
+    <plurals name="num_groups_in_account">
+        <item quantity="other">%0$d grupet</item>
+        <item quantity="one">1 grup</item>
+    </plurals>
+    <plurals name="num_contacts_in_group">
+        <item quantity="other">%1$d njerëz %2$s</item>
+        <item quantity="one">%1$d person prej %2$s</item>
+    </plurals>
+    <plurals name="group_list_num_contacts_in_group">
+        <item quantity="other">%1$d njerëz</item>
+        <item quantity="one">%1$d person</item>
+    </plurals>
+    <plurals name="group_list_num_numbers_in_group">
+        <item quantity="other">%1$d numra</item>
+        <item quantity="one">%1$d numër</item>
+    </plurals>
+    <plurals name="notification_voicemail_title">
+        <item quantity="other">%1$d Voicemails</item>
+        <item quantity="one">Voicemail</item>
+    </plurals>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">%1$d të zgjerdhura</item>
+        <item quantity="one">%1$d të zgjedhura</item>
+    </plurals>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d të preferuara</item>
+        <item quantity="one">%1$d të preferuara</item>
+    </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d Kontaktet e fundit</item>
+        <item quantity="one">1 kontakt i fundit</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d kontaktet</item>
+        <item quantity="one">%1$d kontakt</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d numrat</item>
+        <item quantity="one">%1$d numër</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d email kontakte</item>
+        <item quantity="one">1 email kontakt</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d të preferuara</item>
+        <item quantity="one">%1$d të preferuar</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d kontaktet e fundit</item>
+        <item quantity="one">%1$d kontakti fundit</item>
+    </plurals>
+    <plurals name="group_add_success_toast">
+        <item quantity="other">" %1$d  kontaktet u shtuan"</item>
+        <item quantity="one">%1$d kontakti u shtua</item>
+    </plurals>
+    <plurals name="smart_group_member_count">
+        <item quantity="other">%d njerëz</item>
+        <item quantity="one">1 person</item>
+    </plurals>
+    <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d kontaktet u importuan</item>
+        <item quantity="one">%1$d kontakti u importua</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d zgjedhur"</item>
+        <item quantity="zero">%1$d zgjedhur</item>
+        <item quantity="one">%1$d zgjedhur</item>
+    </plurals>
+</resources>

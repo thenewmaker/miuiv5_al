@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="action_submit">Paraqit</string>
+  <string name="app_label">Reagim</string>
+  <string name="btn_send">Dërgo</string>
+  <string name="bugreport_feedback_from">Nga: %s</string>
+  <string name="description">Përshkrim (nevojitet)</string>
+  <string name="discard_draft_dialog_button_cancel">Anulo</string>
+  <string name="discard_draft_dialog_button_discard">OK</string>
+  <string name="discard_draft_dialog_content">Raporti është ndryshuar, shtyp nutonin OK të heqësh dorë nga mesazhi.</string>
+  <string name="discard_draft_dialog_title">Heq dorë nga mesazhi </string>
+  <string name="err_type">Lloji i reagimit</string>
+  <string name="err_type_call">Thir për problem</string>
+  <string name="err_type_data_lost">Të dhëna të humbura</string>
+  <string name="err_type_force_close">Mbyll me forcë</string>
+  <string name="err_type_network">Problem në rrjet</string>
+  <string name="err_type_others">Të tjera</string>
+  <string name="err_type_power_consuming">Konsumim i energjisë</string>
+  <string name="err_type_reboot">Fikje të sistemit</string>
+  <string name="err_type_suggestion">Sugjërime</string>
+  <string name="menu_attach_screenshot">Ngjit fotografin e ekranit</string>
+  <string name="menu_copy">Kopjo</string>
+  <string name="menu_discard">Heq Dorë</string>
+  <string name="menu_send">Dërgo raport</string>
+  <string name="network_unavailable_dialog_button_ok">OK</string>
+  <string name="network_unavailable_dialog_content">Reagimi do të dërgohet kur interneti ne celular është në dispozicion</string>
+  <string name="network_unavailable_dialog_title">Nuk ka çasje në rrjet</string>
+  <string name="packaging_dialog_content">Raporti po gjenerohet, ju lutem prisni...</string>
+  <string name="report_miui">Reporto tek MIUI</string>
+  <string name="section_description">Përshkrimi</string>
+  <string name="section_err_type">Lloji i reagimit</string>
+  <string name="section_screenshot">Fotografi nga ekrani</string>
+  <string name="status_msg_collecting_log">Mbledhja e regjistrave...</string>
+  <string name="status_msg_pending_upload">%d Reagimi është duke u ngarkuar...</string>
+  <string name="toast_description_required">Përshkrimi nevojitet para se ta bëni paraqitjen</string>
+  <string name="toast_feedback_pending_wlan">Reagimi do të dërgohet pasi që  Wi-Fi të jetë në dispozicion</string>
+  <string name="toast_feedback_submitted">Reagimi i pranua suksesëshëm</string>
+  <string name="toast_pending_log_collection">Mbledhja e regjistrave, ju lutem prisni...</string>
+  <string name="toast_report_copied_to_clipboard">Raporti është kopjuar </string>
+  <string name="toast_report_sent_failed">Dështoi dërgimi i raportit!</string>
+  <string name="toast_report_sent_succeed">Raporti u dërgua suksesëshëm!</string>
+  <string name="user_feedback">Reagimi i shfrytëzuesit</string>
+  <string name="wlan_unavailable_dialog_button_ok">OK</string>
+  <string name="wlan_unavailable_dialog_button_sent">Dërgo tash</string>
+  <string name="wlan_unavailable_dialog_content">%s është i nevojshëm për 2G/3G të dhëna, shtyp OK që të dërgosh duke përdorur vetëm Wi-Fi.</string>
+  <string name="wlan_unavailable_dialog_title">Wi-Fi nuk është në dispozicion</string>
+</resources>

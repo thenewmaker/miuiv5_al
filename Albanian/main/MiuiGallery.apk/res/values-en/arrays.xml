@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     <string-array name="slideshow_time_entries">
+        <item>5 minuta</item>
+        <item>15 minuta</item>
+        <item>30 minuta</item>
+        <item>1 orë</item>
+        <item>Pakufi</item>
+    </string-array>
+</resources>

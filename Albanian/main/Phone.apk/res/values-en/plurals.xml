@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Nuk ka lidhje të dhënave për% s minuta</item>
+        <item quantity="one">Nuk ka lidhje të dhënave për% s minutë</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefoni do të jetë në mënyrë të urgjencës Callback për% s minuta. Ndërsa në këtë mënyrë mund të përdoret asnjë kërkesë duke përdorur një lidhje të dhënave. A doni të dilni tani?</item>
+        <item quantity="one">Telefoni do të jetë në mënyrë të urgjencës Callback për% s minutë. Ndërsa në këtë mënyrë mund të përdoret asnjë Apps duke përdorur një lidhje të dhënave. A doni të dilni tani?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">"Veprimi i zgjedhur nuk është në dispozicion, ndërsa në regjimin e urgjencës Callback. Telefoni do të jetë në këtë mënyrë për% s minuta. A doni të dilni tani?"</item>
+        <item quantity="one">"Veprimi i zgjedhur nuk është në dispozicion, ndërsa në regjimin e urgjencës Callback. Telefoni do të jetë në këtë mënyrë për% s minuta. A doni të dilni tani?"</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d  zgjedhur"</item>
+        <item quantity="zero">%1$d zgjedhur</item>
+        <item quantity="one">%1$d zgjedhur</item>
+    </plurals>
+</resources>

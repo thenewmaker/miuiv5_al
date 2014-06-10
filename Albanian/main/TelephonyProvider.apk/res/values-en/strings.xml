@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Telefon / Mesazhimi Hapësira</string>
+  <string name="default_cateogry_courier">Ndërlidhës</string>
+  <string name="default_cateogry_fraudulent">Mashtrues</string>
+  <string name="default_cateogry_intermediary">Ndërmjetës</string>
+  <string name="default_cateogry_meal_delivery">Ofrimit vakt</string>
+  <string name="default_cateogry_sales">Shitjet</string>
+  <string name="mms_provider_label">MMS</string>
+  <string name="mms_sms_provider_label">Mesazhimi</string>
+  <string name="sms_provider_label">SMS</string>
+</resources>

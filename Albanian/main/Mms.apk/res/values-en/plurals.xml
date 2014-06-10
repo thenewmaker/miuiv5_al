@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Fshij  %1$s biseda të zgjedhura?</item>
+        <item quantity="one">Fshij këtë bisedë?</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">%s seko</item>
+        <item quantity="one">%s sek</item>
+        <item quantity="few">%s seko</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">%1$s rezultate për \"%2$s\"</item>
+        <item quantity="one">%1$s rezultate për \"%2$s\"</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">%1$s njerëz</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">%1$s mesazhe</item>
+        <item quantity="one">%1$s mesazhe</item>
+    </plurals>
+</resources>

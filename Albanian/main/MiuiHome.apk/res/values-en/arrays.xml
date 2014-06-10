@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="transformation_entries">
+        <item>Rrëshqitje klasike</item>
+        <item>Rrëshqitje klasike (no overshoot)</item>
+        <item>Crossfade</item>
+        <item>Gremis</item>
+        <item>Faqe</item>
+        <item>Ujëvarë</item>
+        <item>Rotullo</item>
+        <item>Kub</item>
+    </string-array>
+    <string-array name="wallpaper_scroll_entries">
+        <item>Tema e parazgjedhur</item>
+        <item>Qendër</item>
+        <item>Majtas</item>
+        <item>Djathtas</item>
+    </string-array>
+    <string-array name="gadget_weather_theme_type_entries">
+        <item>Parazgjedhur</item>
+        <item>Klasike</item>
+    </string-array>
+    <string-array name="gadget_weather_image">
+        <item>Pastër</item>
+        <item>Vrenjtur</item>
+        <item>Mjegullt</item>
+        <item>Errët</item>
+        <item>Rëndë</item>
+        <item>Stuhi Shiu</item>
+        <item>Reshje shumë e rëndë</item>
+        <item>Stuhi</item>
+        <item>Dush</item>
+        <item>Reshje të rënda</item>
+        <item>Shi</item>
+        <item>Rigon</item>
+        <item>Borë me shi</item>
+        <item>Stuhi bore</item>
+        <item>Arna të reshjeve të borës</item>
+        <item>Dëbora e madhe</item>
+        <item>Reshje bore</item>
+        <item>Dëbora e lehtë</item>
+        <item>Suhi rëre e fortë</item>
+        <item>Stuhi rëre</item>
+        <item>Stuhi rëre e lehtë</item>
+        <item>Stuhi rëre</item>
+        <item>Breshër</item>
+        <item>Pluhur lundrues</item>
+        <item>Mjegull e dendur</item>
+    </string-array>
+</resources>

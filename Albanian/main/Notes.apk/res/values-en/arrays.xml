@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_entries">
+        <item>Emri</item>
+        <item>Pseudonimi</item>
+        <item>Telefoni</item>
+        <item>E-mail</item>
+        <item>Organizatë</item>
+        <item>IM</item>
+        <item>SIP telefon</item>
+        <item>Ditlindje</item>
+        <item>Website</item>
+        <item>Adresë</item>
+        <item>Shënim</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Të vogë</item>
+        <item>opsione normale</item>
+        <item>Të mëdha</item>
+        <item>Super</item>
+    </string-array>
+</resources>

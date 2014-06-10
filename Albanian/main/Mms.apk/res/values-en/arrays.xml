@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>Një herë</item>
+        <item>Dy herë</item>
+        <item>Tre herë</item>
+        <item>Pesë herë</item>
+        <item>Dhjetë herë</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Emri</item>
+        <item>Emri i shfrytëzuesit</item>
+        <item>Telefon</item>
+        <item>E-mail</item>
+        <item>Organizacion</item>
+        <item>IM</item>
+        <item>SIP Telefon</item>
+        <item>Ditëlindja</item>
+        <item>Webfaqe</item>
+        <item>Adresa</item>
+        <item>Shënime</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Koha pranuar</item>
+        <item>Koha dërguar</item>
+    </string-array>
+    <string-array name="resent_via_entries_sms">
+        <item>Via mesazh</item>
+        <item>Via Cloud mesazh</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
+        <item>Via mesazh</item>
+        <item>Via Cloud mesazh</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 sekond</item>
+        <item>2 sekonda</item>
+        <item>3 sekonda</item>
+        <item>4 sekonda</item>
+        <item>5 sekonda</item>
+        <item>6 sekonda</item>
+        <item>7 sekonda</item>
+        <item>8 sekonda</item>
+        <item>9 sekonda</item>
+        <item>10 sekonda</item>
+        <item>Tjera</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Gjithmonë</item>
+        <item>Vetëm kur është heshtur</item>
+        <item>Asnjëherë</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="numberup">
+        <item>Një faqe për krah</item>
+        <item>Dy faqe për krah</item>
+        <item>Katër faqe për krah page per side</item>
+    </string-array>
+    <string-array name="orientation">
+        <item>Portret</item>
+        <item>Peisazh</item>
+        <item>Peisazh anasjelltas</item>
+        <item>Porter anasjelltas</item>
+    </string-array>
+    <string-array name="sides">
+        <item>Një anëshe</item>
+        <item>Dy anëshe buzë gjatë</item>
+        <item>Dy anëshe buzë shkurtë</item>
+    </string-array>
+</resources>

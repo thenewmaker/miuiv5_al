@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list_language_entries">
+        <item>English</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Chinese</item>
+        <item>Hebrew</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Vetëm Shtëpi</item>
+        <item>Automatik</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY Fikur</item>
+        <item>TTY Plotë</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normale</item>
+        <item>Gjatë</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Gjithmonë</item>
+        <item>Vetëm kur është heshtur</item>
+        <item>Asnjëher</item>
+    </string-array>
+</resources>

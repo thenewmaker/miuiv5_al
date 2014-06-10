@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_available">
+        <item quantity="other">Wi-Fi rrjeteve në dispozicion</item>
+        <item quantity="one">Wi-Firrjeteve në dispozicion</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">Cloud hotspots në dispozicion</item>
+        <item quantity="one">Cloud hotspot  në dispozicion</item>
+    </plurals>
+</resources>

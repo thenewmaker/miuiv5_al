@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_label">Ruajtja e kontakteve</string>
+  <string name="call_log_provider_label">Regjistri i thirjeve</string>
+  <string name="create_contact">Kontakt i ri</string>
+  <string name="debug_dump_database_message">Ju jeni duke  1) bërë kopje të dhënave bazë a të cilat përfshijnë të gjitha kontaktet me informacione të lidhura dhe të gjitha telefonatan në regjistër në memorien e brendëshme, dhe 2) dërgo e-mail. Mbaj mënd të fshijni kopjen atëherë kur ta keni kopjuar suksesëshëm jasht pajisjes ose e-mail është pranuar.</string>
+  <string name="debug_dump_delete_button">Fshiij tani</string>
+  <string name="debug_dump_email_body">Të dhënat e kontakteve janë të lidhura me informacionet e kontakteve. Meruni me kujdes.</string>
+  <string name="debug_dump_email_sender_picker">Zgjidh programin për të dërguar skedarin tuaj.</string>
+  <string name="debug_dump_email_subject">Kontaktet DB janë lidhur</string>
+  <string name="debug_dump_start_button">Fillo</string>
+  <string name="debug_dump_title">Kopjo të dhënat e kontakteve</string>
+  <string name="default_directory">Kontakte</string>
+  <string name="edit_contact">Shto te kontaktet</string>
+  <string name="local_invisible_directory">Të tjera</string>
+  <string name="pound_search_tip">Fut numrin pasi \"#\" të keni kërkuar kontaktet</string>
+  <string name="provider_label">Kontaktet</string>
+  <string name="read_write_all_voicemail_description">E lejon aplikacionin të futet në depo dhe të gjej të gjitha voicemailet që kjo pajisje mund ti mbajë.</string>
+  <string name="read_write_all_voicemail_label">Hyr në të gjitha voicemails</string>
+  <string name="send_sms">Dërgo mesazh</string>
+  <string name="sharedUserLabel">Aplikacionet e bërthamës Android</string>
+  <string name="third_party_delete_contact_info">\"%s\" është duke pastruar kontaktet tuaja Xiaomi, ju lutemi përdorni kontaktet e sistemit Contacts në vend se të performini siguri për kontaket tuaja.</string>
+  <string name="upgrade_msg">Duke Lartësuar të dhënat e kontakteve.</string>
+  <string name="upgrade_out_of_memory_notification_text">Zgjidh që të lartësuar kontaktet.</string>
+  <string name="upgrade_out_of_memory_notification_ticker">Lartësimi i kontakteve i nevoitet më shumë memorie</string>
+  <string name="upgrade_out_of_memory_notification_title">Duke lartësuar memorien e kontakteve</string>
+  <string name="voicemail_from_column">"Voicemail nga "</string>
+</resources>
